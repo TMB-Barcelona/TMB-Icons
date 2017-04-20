@@ -1,0 +1,23 @@
+{
+  "name": "tmb-icons",
+  "version": "1.0.0",
+  "description": "Icons for TMB-Barcelona",
+  "main": "index.js",
+  "scripts": {
+    "mapbox": "spritezero docs/mapboxgl/sprites docs/svg/ && spritezero --retina docs/mapboxgl/sprites@2x docs/svg/",
+    "index": "cd src && ./generate-index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarfonts/TMB-Icons.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscarfonts/TMB-Icons/issues"
+  },
+  "homepage": "http://fonts.cat/TMB-Icons",
+  "devDependencies": {
+    "@mapbox/spritezero-cli": "2.0.0",
+    "mustache": "2.3.0"
+  }
+}

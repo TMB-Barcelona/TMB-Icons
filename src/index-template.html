@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cosmo/bootstrap.min.css">
+  <style>
+    body {
+      padding-top: 50px;
+    }
+    .navbar-inverse {
+      background-color: #FF0000;
+      border-color: #FF0000;
+    }
+  </style>
+  <title>TMB-Icons</title>
+</head>
+<body>
+
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">TMB-Icons</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <h1>SVG Icons</h1>
+    <p>{{#svg}}
+      <a href="svg/{{.}}"><img src="svg/{{.}}"/></a>
+    {{/svg}}</p>
+
+    <h1>MapboxGL sprites</h1>
+
+    <p>Use <code>"sprite": "http://fonts.cat/TMB-Icons/mapboxgl/sprites"</code> in your mapboxgl style definition.
+    Then use them as "icon-image" property in a layer:</p>
+
+    <pre><code>
+    {
+      "id": "estacions",
+      "type": "symbol",
+      "source": "estacions",
+      "maxzoom": 16,
+      "layout": {
+        "icon-image": "{PICTO}",
+        "icon-size": {
+          "stops": [
+            [10, 0],
+            [11, 0.2],
+            [13, 0.25],
+            [20, 0.5]
+          ]
+        },
+        "icon-allow-overlap": true,
+        "text-field": "{NOM_ESTACIO}",
+        "text-font": [
+          "Open Sans Semibold"
+        ],
+        "text-offset": [1, 0],
+        "text-anchor": "left",
+        "text-size": {
+          "stops": [
+            [12.9, 0],
+            [13, 11],
+            [20, 24]
+          ]
+        },
+        "text-optional": true
+      },
+      "paint": {
+        "text-halo-width": 1,
+        "text-halo-color": "#000000",
+        "text-color": "#FFFFFF"
+      }
+    }
+    </code></pre>
+  </div>
+
+</body>
+</html>
