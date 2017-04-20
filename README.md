@@ -11,6 +11,10 @@ Original URLs available at `sources.txt`.
 Some icons have been edited for homogeinity.
 Base size is 64x64 px.
 
+## Regenerate PNG icons
+
+`npm run svg2png`
+
 ## Regenerate sprites for mapbox-gl styles
 
 `npm run mapbox`
