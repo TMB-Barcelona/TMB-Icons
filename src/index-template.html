@@ -13,6 +13,18 @@
       background-color: #FF0000;
       border-color: #FF0000;
     }
+    .icon-container {
+      display: inline-block;
+      vertical-align: middle;
+      text-align: center;
+      width: 64px;
+      height: 64px;
+      margin: 3px;
+    }
+    img {
+      width: 100%;
+    }
+
   </style>
   <title>TMB-Icons</title>
 </head>
@@ -29,12 +41,12 @@
   <div class="container">
     <h1>SVG Icons</h1>
     <p>{{#svg}}
-      <a href="svg/{{.}}"><img src="svg/{{.}}"/></a>
+      <div class="icon-container"><a href="svg/{{.}}"><img src="svg/{{.}}"/></a></div>
     {{/svg}}</p>
 
     <h1>PNG Icons (64x64)</h1>
     <p>{{#png64}}
-      <a href="png/64/{{.}}"><img src="png/64/{{.}}"/></a>
+      <div class="icon-container"><a href="png/64/{{.}}"><img src="png/64/{{.}}"/></a></div>
     {{/png64}}</p>
 
     <h1>MapboxGL sprites</h1>

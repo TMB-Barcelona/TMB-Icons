@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   id="svg21844"
+   height="64"
+   width="128">
+  <defs
+     id="defs21846" />
+  <metadata
+     id="metadata21849">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-0.78733474,136.12828)"
+     id="layer1">
+    <g
+       id="g3461">
+      <rect
+         style="opacity:1;fill:#e1393e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.08599997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.086, 14.172;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect21854"
+         width="64"
+         height="64"
+         x="0.78733474"
+         y="-136.12828" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52000046px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 10.918671,-122.0771 0,33.92928 23.9976,0 0,-6.27264 -16.53696,0 0,-27.65664 -7.46064,0"
+         id="text2382" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52000046px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 51.201204,-88.262718 0,-33.264002 -5.36976,0 c -0.190093,1.26723 -0.586092,2.32851 -1.188,3.18384 -0.601931,0.85539 -1.34641,1.55235 -2.23344,2.09088 -0.855369,0.50691 -1.837448,0.87123 -2.94624,1.09296 -1.077125,0.19011 -2.201764,0.26931 -3.37392,0.2376 l 0,5.08464 8.36352,0 0,21.574082 6.74784,0"
+         id="text22626" />
+    </g>
+    <g
+       transform="translate(64,6.3964845e-7)"
+       id="layer1-5">
+      <rect
+         style="opacity:1;fill:#febd10;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.08599997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.086, 14.172;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect21854-9"
+         width="64"
+         height="64"
+         x="0.78733474"
+         y="-136.12828" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52000046px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#231f20;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 10.918671,-122.0771 0,33.92928 23.9976,0 0,-6.27264 -16.53696,0 0,-27.65664 -7.46064,0"
+         id="text2382-2" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52000046px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#231f20;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 47.399604,-113.06816 0,11.54736 -8.74368,0 8.60112,-11.54736 0.14256,0 m 0,17.107202 0,7.69824 6.4152,0 0,-7.69824 4.419361,0 0,-5.559842 -4.419361,0 0,-20.00592 -6.03504,0 -14.44608,19.38816 0,6.177602 14.06592,0"
+         id="text22626-2" />
+    </g>
+  </g>
+</svg>
