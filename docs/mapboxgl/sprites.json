@@ -448,9 +448,9 @@
     "y": 448
   },
   "TMB": {
-    "height": 63,
+    "height": 48,
     "pixelRatio": 1,
-    "width": 64,
+    "width": 63,
     "x": 704,
     "y": 0
   },
@@ -479,7 +479,7 @@
     "height": 48,
     "pixelRatio": 1,
     "width": 64,
-    "x": 768,
+    "x": 767,
     "y": 0
   },
   "rodalies": {
