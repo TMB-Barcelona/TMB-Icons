@@ -503,6 +503,27 @@
     "x": 1279,
     "y": 256
   },
+  "parada-actual": {
+    "height": 63,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 1407,
+    "y": 256
+  },
+  "parada-anulada": {
+    "height": 63,
+    "pixelRatio": 2,
+    "width": 63,
+    "x": 1471,
+    "y": 256
+  },
+  "parada-nova": {
+    "height": 63,
+    "pixelRatio": 2,
+    "width": 63,
+    "x": 1534,
+    "y": 256
+  },
   "rodalies": {
     "height": 128,
     "pixelRatio": 2,
