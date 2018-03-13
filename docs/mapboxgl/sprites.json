@@ -496,6 +496,34 @@
     "x": 960,
     "y": 0
   },
+  "linia-bus": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 703,
+    "y": 128
+  },
+  "linia-bus-D": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 734,
+    "y": 128
+  },
+  "linia-bus-H": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 765,
+    "y": 128
+  },
+  "linia-bus-V": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 796,
+    "y": 128
+  },
   "metro": {
     "height": 48,
     "pixelRatio": 1,
@@ -507,21 +535,21 @@
     "height": 31,
     "pixelRatio": 1,
     "width": 32,
-    "x": 703,
+    "x": 827,
     "y": 128
   },
   "parada-anulada": {
     "height": 31,
     "pixelRatio": 1,
     "width": 31,
-    "x": 735,
+    "x": 859,
     "y": 128
   },
   "parada-nova": {
     "height": 31,
     "pixelRatio": 1,
     "width": 31,
-    "x": 766,
+    "x": 890,
     "y": 128
   },
   "rodalies": {
