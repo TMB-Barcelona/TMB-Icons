@@ -497,28 +497,28 @@
     "y": 0
   },
   "linia-bus": {
-    "height": 31,
+    "height": 32,
     "pixelRatio": 1,
     "width": 31,
     "x": 703,
     "y": 128
   },
   "linia-bus-D": {
-    "height": 31,
+    "height": 32,
     "pixelRatio": 1,
     "width": 31,
     "x": 734,
     "y": 128
   },
   "linia-bus-H": {
-    "height": 31,
+    "height": 32,
     "pixelRatio": 1,
     "width": 31,
     "x": 765,
     "y": 128
   },
   "linia-bus-V": {
-    "height": 31,
+    "height": 32,
     "pixelRatio": 1,
     "width": 31,
     "x": 796,
