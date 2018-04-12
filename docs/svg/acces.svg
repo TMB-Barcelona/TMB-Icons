@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
-   height="48"
+   height="64"
    id="svg16758"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="metro.svg"
+   sodipodi:docname="acces.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0">
   <defs
@@ -34,14 +34,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.125"
-     inkscape:cx="32"
-     inkscape:cy="24"
+     inkscape:zoom="8.5625"
+     inkscape:cx="23.380917"
+     inkscape:cy="16.872078"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
      inkscape:window-x="0"
      inkscape:window-y="27"
      fit-margin-top="0"
@@ -65,24 +65,28 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-539.60804,-57.50986)">
+     transform="translate(-539.60804,-41.50986)">
     <g
-       id="g4848"
-       transform="matrix(0,-6.5555859,-6.5506653,0,603.60804,81.50986)">
-      <path
-         d="M 0,0 3.661,4.884 0,9.77 -3.661,4.882 0,0"
-         style="fill:#ed1b2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path4850"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g4852"
-       transform="matrix(0,-6.5555859,-6.5506653,0,559.54827,92.070909)">
-      <path
-         d="m 0,0 3.22,0 0,-1.275 -2.008,-0.568 2.008,-0.568 0,-1.274 -3.22,0 0,0.948 0.984,0 0.501,-0.014 0.582,-0.054 0,0.01 L 0,-2.21 l 0,0.734 2.067,0.586 0,0.009 L 1.592,-0.926 1.091,-0.948 0,-0.948 0,0"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path4854"
-         inkscape:connector-curvature="0" />
+       id="g4138"
+       transform="translate(0,-8)">
+      <g
+         transform="matrix(0,-6.5555859,-6.5506653,0,603.60804,81.50986)"
+         id="g4848">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4850"
+           style="fill:#ed1b2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 3.661,4.884 0,9.77 -3.661,4.882 0,0" />
+      </g>
+      <g
+         transform="matrix(0,-6.5555859,-6.5506653,0,559.54827,92.070909)"
+         id="g4852">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4854"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 3.22,0 0,-1.275 -2.008,-0.568 2.008,-0.568 0,-1.274 -3.22,0 0,0.948 0.984,0 0.501,-0.014 0.582,-0.054 0,0.01 L 0,-2.21 l 0,0.734 2.067,0.586 0,0.009 L 1.592,-0.926 1.091,-0.948 0,-0.948 0,0" />
+      </g>
     </g>
   </g>
 </svg>
