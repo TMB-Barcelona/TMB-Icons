@@ -18,7 +18,7 @@
   },
   "homepage": "http://fonts.cat/TMB-Icons",
   "devDependencies": {
-    "@mapbox/spritezero-cli": "2.1.0",
+    "@mapbox/spritezero-cli": "geomatico/spritezero-cli",
     "mustache": "2.3.0",
     "svg2png": "4.1.1"
   }

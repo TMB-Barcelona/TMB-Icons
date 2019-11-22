@@ -545,32 +545,39 @@
     "x": 958,
     "y": 128
   },
-  "parada-actual": {
-    "height": 63,
-    "pixelRatio": 1,
-    "width": 64,
-    "x": 128,
-    "y": 512
-  },
-  "parada-anulada": {
-    "height": 63,
-    "pixelRatio": 1,
-    "width": 63,
-    "x": 192,
-    "y": 512
-  },
-  "parada-nova": {
+  "oneway": {
     "height": 64,
     "pixelRatio": 1,
     "width": 64,
     "x": 0,
     "y": 512
   },
-  "rodalies": {
+  "parada-actual": {
+    "height": 63,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 512
+  },
+  "parada-anulada": {
+    "height": 63,
+    "pixelRatio": 1,
+    "width": 63,
+    "x": 256,
+    "y": 512
+  },
+  "parada-nova": {
     "height": 64,
     "pixelRatio": 1,
     "width": 64,
     "x": 64,
+    "y": 512
+  },
+  "rodalies": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
     "y": 512
   }
 }
