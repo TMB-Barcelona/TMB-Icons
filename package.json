@@ -2,24 +2,56 @@
   "name": "tmb-icons",
   "version": "1.0.0",
   "description": "Icons for TMB-Barcelona",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "static"
+  ],
   "scripts": {
-    "svg2png": "cd src && ./svg2png.js",
-    "mapbox": "spritezero docs/mapboxgl/sprites docs/svg/ && spritezero --retina docs/mapboxgl/sprites@2x docs/svg/",
-    "index": "cd src && ./generate-index.js"
+    "clean": "rm -rf src static",
+    "svg2png": "cd scripts && ./svg2png.js",
+    "mapbox": "mkdir -p static/mapboxgl && spritezero static/mapboxgl/sprites svg/ && spritezero --retina static/mapboxgl/sprites@2x svg/",
+    "index": "cp -r svg static/ && cd scripts && ./generate-index.js",
+    "react": "svgr -d src/react/ svg/",
+    "build-static": "npm run svg2png && npm run mapbox && npm run index",
+    "build-react": "npm run react && webpack --env prod",
+    "gh-pages": "npm run build-static && gh-pages -d static",
+    "version": "npm run build-static && npm run build-react && auto-changelog -p && git add CHANGELOG.md",
+    "release": "git push --tags && npm pack && gh-release -y -a static/mapboxgl/sprites.json,static/mapboxgl/sprites.png,static/mapboxgl/sprites@2x.json,static/mapboxgl/sprites@2x.png,`ls -1 *.tgz`"
+  },
+  "auto-changelog": {
+    "template": "keepachangelog",
+    "unreleased": true,
+    "commitLimit": false
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oscarfonts/TMB-Icons.git"
+    "url": "git+https://github.com/geomatico/TMB-Icons.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oscarfonts/TMB-Icons/issues"
+    "url": "https://github.com/geomatico/TMB-Icons/issues"
   },
-  "homepage": "http://fonts.cat/TMB-Icons",
+  "homepage": "https://geomatico.github.io/TMB-Icons/",
   "devDependencies": {
+    "@babel/preset-env": "7.12.1",
+    "@babel/preset-react": "7.12.5",
     "@mapbox/spritezero-cli": "geomatico/spritezero-cli",
+    "@svgr/cli": "5.5.0",
+    "auto-changelog": "2.2.1",
+    "babel-loader": "8.2.1",
+    "clean-webpack-plugin": "^3.0.0",
+    "eslint": "7.13.0",
+    "eslint-loader": "4.0.2",
+    "eslint-plugin-react": "^7.21.5",
+    "gh-pages": "3.1.0",
+    "gh-release": "4.0.3",
     "mustache": "2.3.0",
-    "svg2png": "4.1.1"
+    "react": "16.3.0",
+    "svg2png": "4.1.1",
+    "url-loader": "4.1.1",
+    "webpack": "4.44.2",
+    "webpack-cli": "4.2.0",
+    "webpack-node-externals": "^2.5.2"
   }
 }

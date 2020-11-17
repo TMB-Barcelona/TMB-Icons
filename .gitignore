@@ -1,1 +1,9 @@
+.idea
+
 node_modules/
+
+*.tgz
+src
+dist
+static
+gh-pages
