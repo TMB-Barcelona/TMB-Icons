@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="63.999996"
+   height="64.000008"
+   viewBox="0 0 63.999998 64.000004"
+   id="svg24170"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="linia-bus-H.svg">
+  <defs
+     id="defs24172">
+    <clipPath
+       id="clipPath13218"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path13220"
+         d="m 12.00029,12.03594 0,820.21965 952.02301,0 0,-820.21965 -952.02301,0 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.333333"
+     inkscape:cx="-2.6887915"
+     inkscape:cy="14.37755"
+     inkscape:document-units="px"
+     inkscape:current-layer="g13216"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <metadata
+     id="metadata24175">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-48.995542,-43.918087)">
+    <g
+       transform="matrix(1.2494217,0,0,-1.2498025,-293.79547,425.83197)"
+       id="g13214">
+      <g
+         id="g13216"
+         clip-path="url(#clipPath13218)">
+        <ellipse
+           style="opacity:1;fill:#2d4191;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path4166"
+           cx="299.97159"
+           cy="-279.97534"
+           transform="scale(1,-1)"
+           rx="25.611849"
+           ry="25.604046" />
+      </g>
+    </g>
+  </g>
+</svg>
