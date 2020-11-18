@@ -1,6 +1,6 @@
 {
   "name": "tmb-icons",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Icons for TMB-Barcelona",
   "main": "dist/index.js",
   "files": [
@@ -17,7 +17,7 @@
     "build-react": "npm run react && webpack --env prod",
     "gh-pages": "npm run build-static && gh-pages -d static",
     "version": "npm run build-static && npm run build-react && auto-changelog -p && git add CHANGELOG.md",
-    "release": "git push --tags && npm pack && gh-release -y -a static/mapboxgl/sprites.json,static/mapboxgl/sprites.png,static/mapboxgl/sprites@2x.json,static/mapboxgl/sprites@2x.png,`ls -1 *.tgz`"
+    "release": "git push --follow-tags && npm pack && gh-release -y -a *.tgz"
   },
   "auto-changelog": {
     "template": "keepachangelog",
