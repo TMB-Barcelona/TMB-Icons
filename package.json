@@ -17,7 +17,8 @@
     "build-react": "npm run react && webpack --env prod",
     "gh-pages": "npm run build-static && gh-pages -d static",
     "version": "npm run build-static && npm run build-react && auto-changelog -p && git add CHANGELOG.md",
-    "release": "git push --follow-tags && npm pack && gh-release -y -a *.tgz"
+    "release": "git push --follow-tags && npm pack && gh-release -y -a *.tgz && npm run upload-to-s3",
+    "upload-to-s3": "cd scripts && ./upload-to-s3.js"
   },
   "auto-changelog": {
     "template": "keepachangelog",
@@ -39,6 +40,7 @@
     "@mapbox/spritezero-cli": "geomatico/spritezero-cli",
     "@svgr/cli": "5.5.0",
     "auto-changelog": "2.2.1",
+    "aws-sdk": "2.803.0",
     "babel-loader": "8.2.1",
     "clean-webpack-plugin": "^3.0.0",
     "eslint": "7.13.0",
@@ -46,6 +48,7 @@
     "eslint-plugin-react": "^7.21.5",
     "gh-pages": "3.1.0",
     "gh-release": "4.0.3",
+    "glob": "7.1.6",
     "mustache": "2.3.0",
     "react": "16.3.0",
     "svg2png": "4.1.1",
