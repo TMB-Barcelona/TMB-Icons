@@ -18,7 +18,9 @@
     "gh-pages": "npm run build-static && gh-pages -d static",
     "version": "npm run build-static && npm run build-react && auto-changelog -p && git add CHANGELOG.md",
     "release": "git push --follow-tags && npm pack && gh-release -y -a *.tgz && npm run upload-to-s3",
-    "upload-to-s3": "cd scripts && ./upload-to-s3.js"
+    "s3-static": "aws s3 cp static s3://cdn.tmb.cat/icons/v$npm_package_version/static/ --recursive --acl public-read",
+    "s3-dist": "aws s3 cp dist s3://cdn.tmb.cat/icons/v$npm_package_version/dist/ --recursive --acl public-read",
+    "upload-to-s3": "npm run s3-static && npm run s3-dist"
   },
   "auto-changelog": {
     "template": "keepachangelog",
