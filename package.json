@@ -12,7 +12,7 @@
     "svg2png": "cd scripts && ./svg2png.js",
     "mapbox": "mkdir -p static/mapboxgl && spritezero static/mapboxgl/sprites svg/ && spritezero --retina static/mapboxgl/sprites@2x svg/",
     "index": "cp -r svg static/ && cd scripts && ./generate-index.js",
-    "react": "svgr -d src/react/ svg/",
+    "react": "svgr --svg-props width='100%',height='100%' -d src/react/ svg/",
     "build-static": "npm run svg2png && npm run mapbox && npm run index",
     "build-react": "npm run react && webpack --env prod",
     "gh-pages": "npm run build-static && gh-pages -d static",
