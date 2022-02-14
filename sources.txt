@@ -43,6 +43,8 @@ https://upload.wikimedia.org/wikipedia/commons/f/f8/Rodalies_de_Catalunya_s%C3%A
 https://upload.wikimedia.org/wikipedia/commons/f/fa/R1_barcelona.svg R1
 https://upload.wikimedia.org/wikipedia/commons/f/fa/R1_barcelona.svg R1_b
 https://upload.wikimedia.org/wikipedia/commons/6/63/R2_barcelona.svg R2
+https://upload.wikimedia.org/wikipedia/commons/6/60/R2N_barcelona.svg R2N
+https://upload.wikimedia.org/wikipedia/commons/f/f6/R2S_barcelona.svg R2S
 https://upload.wikimedia.org/wikipedia/commons/e/ec/R3_barcelona.svg R3
 https://upload.wikimedia.org/wikipedia/commons/a/a1/R4_barcelona.svg R4
 https://upload.wikimedia.org/wikipedia/commons/2/26/R5_barcelona.svg R5
@@ -53,3 +55,9 @@ https://upload.wikimedia.org/wikipedia/commons/0/0b/R6_barcelona.svg R6
 https://upload.wikimedia.org/wikipedia/commons/4/44/R60_barcelona.svg R60
 https://upload.wikimedia.org/wikipedia/commons/c/c0/R7_barcelona.svg R7
 https://upload.wikimedia.org/wikipedia/commons/1/14/R8_barcelona.svg R8
+https://upload.wikimedia.org/wikipedia/commons/0/0d/R11_Rodalies_de_Catalunya.svg R11
+https://upload.wikimedia.org/wikipedia/commons/7/70/R12_Rodalies_de_Catalunya.svg R12
+https://upload.wikimedia.org/wikipedia/commons/7/74/R13_Rodalies_de_Catalunya.svg R13
+https://upload.wikimedia.org/wikipedia/commons/2/28/R14_Rodalies_de_Catalunya.svg R14
+https://upload.wikimedia.org/wikipedia/commons/f/fb/R15_Rodalies_de_Catalunya.svg R15
+https://upload.wikimedia.org/wikipedia/commons/7/76/R16_Rodalies_de_Catalunya.svg R16
