@@ -29,13 +29,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geomatico/TMB-Icons.git"
+    "url": "git+https://github.com/tmb-barcelona/TMB-Icons.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geomatico/TMB-Icons/issues"
+    "url": "https://github.com/tmb-barcelona/TMB-Icons/issues"
   },
-  "homepage": "https://geomatico.github.io/TMB-Icons/",
+  "homepage": "https://tmb-barcelona.github.io/TMB-Icons/",
   "devDependencies": {
     "@babel/preset-env": "7.12.1",
     "@babel/preset-react": "7.12.5",

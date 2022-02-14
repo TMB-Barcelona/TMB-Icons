@@ -58,6 +58,4 @@ This will do:
 5. Make a `tmb-react-components.v0.0.1.tgz` with transpiled code
 6. Make a github release `v0.0.1` and upload tgz file and mapbox sprites as asset
 
-After that, we have a new [release](https://github.com/geomatico/TMB-Icons/releases) on github.
-
-
+After that, we have a new [release](https://github.com/tmb-barcelona/TMB-Icons/releases) on github.
