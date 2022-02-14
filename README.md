@@ -45,7 +45,7 @@ To make a new version of library, we need to do it from master branch. For examp
 
 ```bash
 npm version 0.0.2
-npm release
+npm run release
 npm run gh-pages
 npm run upload-to-s3
 ```
