@@ -45,14 +45,14 @@
       <div class="icon-container"><a href="svg/{{.}}"><img src="svg/{{.}}"/></a></div>
     {{/svg}}</p>
 
-    <h1>PNG Icons (64x64)</h1>
-    <p>{{#png64}}
-      <div class="icon-container"><a href="png/64/{{.}}"><img src="png/64/{{.}}"/></a></div>
-    {{/png64}}</p>
+    <h1>PNG Icons</h1>
+    <p>{{#png}}
+      <div class="icon-container"><a href="png/originalSize/{{.}}"><img src="png/originalSize/{{.}}"/></a></div>
+    {{/png}}</p>
 
     <h1>MapboxGL sprites</h1>
 
-    <p>Use <code>"sprite": "https://TMB-Barcelona.github.io/TMB-Icons/mapboxgl/sprites"</code> in your mapboxgl style definition.
+    <p>Use <code>"sprite": "https://cdn.tmb.cat/icons/{{version}}/static/mapboxgl/sprites"</code> in your mapboxgl style definition.
     Then use them as "icon-image" property in a layer:</p>
 
     <pre><code>

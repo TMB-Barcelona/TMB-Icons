@@ -1,16 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 35 35" style="enable-background:new 0 0 35 35;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   width="64"
+   height="64"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15" />
+<style
+   type="text/css"
+   id="style2">
 	.st0{fill:#A22A44;}
 	.st1{fill:#FFFFFF;}
 </style>
-<g>
-	<rect class="st0" width="35" height="35"/>
-	<path class="st1" d="M2.8,20.6c-0.1,4.6,3.8,6.6,7.9,6.6c5.1,0,7.7-2.6,7.7-6c0-4.2-4.2-5.1-5.5-5.4c-4.7-1.2-5.6-1.4-5.6-2.8
-		c0-1.6,1.5-2.1,2.8-2.1c2,0,3.5,0.6,3.7,2.8h4c0-4.3-3.6-6-7.5-6c-3.4,0-7,1.8-7,5.6c0,3.5,2.8,4.6,5.5,5.3
-		c2.7,0.7,5.5,1.1,5.5,3.1c0,1.9-2.2,2.3-3.6,2.3c-2.2,0-4.1-1-4.1-3.4H2.8z"/>
-	<path class="st1" d="M32.5,8.7H20.1v3.4h8.7c-3.5,4.2-5.7,9.4-6.1,14.8h4c0.1-4.9,2.1-11.7,6-15.1V8.7z"/>
+<g
+   id="g10"
+   transform="scale(1.8285714)"
+   style="stroke-width:0.546875">
+	<rect
+   class="st0"
+   width="35"
+   height="35"
+   id="rect4"
+   x="0"
+   y="0"
+   style="stroke-width:0.546875" />
+	<path
+   class="st1"
+   d="m 2.8,20.6 c -0.1,4.6 3.8,6.6 7.9,6.6 5.1,0 7.7,-2.6 7.7,-6 0,-4.2 -4.2,-5.1 -5.5,-5.4 C 8.2,14.6 7.3,14.4 7.3,13 c 0,-1.6 1.5,-2.1 2.8,-2.1 2,0 3.5,0.6 3.7,2.8 h 4 c 0,-4.3 -3.6,-6 -7.5,-6 -3.4,0 -7,1.8 -7,5.6 0,3.5 2.8,4.6 5.5,5.3 2.7,0.7 5.5,1.1 5.5,3.1 0,1.9 -2.2,2.3 -3.6,2.3 -2.2,0 -4.1,-1 -4.1,-3.4 z"
+   id="path6"
+   style="stroke-width:0.546875" />
+	<path
+   class="st1"
+   d="M 32.5,8.7 H 20.1 v 3.4 h 8.7 c -3.5,4.2 -5.7,9.4 -6.1,14.8 h 4 c 0.1,-4.9 2.1,-11.7 6,-15.1 V 8.7 Z"
+   id="path8"
+   style="stroke-width:0.546875" />
 </g>
 </svg>
