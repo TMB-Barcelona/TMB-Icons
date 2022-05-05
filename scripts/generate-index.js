@@ -8,7 +8,7 @@ const template = fs.readFileSync("index-template.html").toString();
 const data = {
     "version": 'v' + version,
 	"svg": fs.readdirSync('../static/svg'),
-	"png64": fs.readdirSync('../static/png/64'),
+	"png": fs.readdirSync('../static/png/originalSize'),
 };
 
 const output = Mustache.render(template, data);

@@ -6,7 +6,7 @@
 * TMB S3 CDN Examples: 
   * Index: https://cdn.tmb.cat/icons/v1.1.1/static/index.html
   * SVGs: https://cdn.tmb.cat/icons/v1.1.1/static/svg/L1.svg
-  * PNGs: https://cdn.tmb.cat/icons/v1.1.1/static/png/64/L1.png
+  * PNGs: https://cdn.tmb.cat/icons/v1.1.1/static/png/originalSize/L1.png
   * Mapbox Sprites: https://cdn.tmb.cat/icons/v1.1.1/static/mapboxgl/sprites.json
 
 
@@ -17,9 +17,20 @@ Original URLs available at `sources.txt`.
 Some icons have been edited for homogeinity.
 Base size is 64x64 px.
 
+The `<svg>` tag needs to include the following attributes:
+ * viewBox, generally equalling "0 0 64 64"
+ * width, generally equalling "64"
+ * height, generally equalling "64"
+
 ## Generate PNG icons
 
-`npm run svg2png`
+Using original size (as declared in SVG's width/height attributes):
+
+  `npm run svg2png`
+
+Rescaling to a specific image height in pixels, for instance for 70 pix height:
+
+  `npm run svg2png -- 70`
 
 ## Generate sprites for mapbox-gl styles
 
