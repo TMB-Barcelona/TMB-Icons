@@ -482,207 +482,228 @@
     "x": 1536,
     "y": 256
   },
-  "S33": {
+  "S3": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 1664,
+    "y": 256
+  },
+  "S33": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
     "y": 256
   },
   "S4": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
-    "x": 1792,
+    "x": 1920,
     "y": 256
   },
   "S5": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
-    "x": 1920,
-    "y": 256
-  },
-  "S55": {
-    "height": 128,
-    "pixelRatio": 2,
-    "width": 128,
     "x": 0,
     "y": 1024
   },
-  "S8": {
+  "S55": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 128,
     "y": 1024
   },
-  "T1": {
+  "S7": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 256,
     "y": 1024
   },
-  "T2": {
+  "S8": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 384,
     "y": 1024
   },
-  "T3": {
+  "S9": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 512,
     "y": 1024
   },
-  "T4": {
+  "T1": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 640,
     "y": 1024
   },
-  "T5": {
+  "T2": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 768,
     "y": 1024
   },
-  "T6": {
+  "T3": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 896,
     "y": 1024
   },
-  "TB": {
+  "T4": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 1024,
     "y": 1024
   },
-  "TMB": {
+  "T5": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 1152,
     "y": 1024
   },
-  "TRAM": {
+  "T6": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 1280,
     "y": 1024
   },
-  "TRAM_gris": {
+  "TB": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 1408,
     "y": 1024
   },
-  "acces": {
+  "TMB": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 1536,
     "y": 1024
   },
-  "acces-elevator": {
+  "TRAM": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 1664,
     "y": 1024
   },
-  "bus": {
+  "TRAM_gris": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 1792,
     "y": 1024
   },
-  "elevator": {
+  "acces": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
     "x": 1920,
     "y": 1024
   },
+  "acces-elevator": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 1152
+  },
+  "bus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 1152
+  },
+  "elevator": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 1152
+  },
   "linia-bus": {
     "height": 128,
     "pixelRatio": 2,
-    "width": 127,
-    "x": 0,
+    "width": 128,
+    "x": 384,
     "y": 1152
   },
   "linia-bus-D": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
-    "x": 127,
+    "x": 512,
     "y": 1152
   },
   "linia-bus-H": {
     "height": 128,
     "pixelRatio": 2,
-    "width": 127,
-    "x": 255,
+    "width": 128,
+    "x": 640,
     "y": 1152
   },
   "linia-bus-V": {
     "height": 128,
     "pixelRatio": 2,
-    "width": 127,
-    "x": 382,
+    "width": 128,
+    "x": 768,
     "y": 1152
   },
   "linia-bus-X": {
     "height": 128,
     "pixelRatio": 2,
-    "width": 127,
-    "x": 509,
+    "width": 128,
+    "x": 896,
     "y": 1152
   },
   "oneway": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
-    "x": 636,
+    "x": 1024,
     "y": 1152
   },
   "parada-actual": {
-    "height": 127,
+    "height": 128,
     "pixelRatio": 2,
     "width": 128,
-    "x": 1020,
+    "x": 1152,
     "y": 1152
   },
   "parada-anulada": {
-    "height": 127,
+    "height": 128,
     "pixelRatio": 2,
-    "width": 127,
-    "x": 1148,
+    "width": 128,
+    "x": 1280,
     "y": 1152
   },
   "parada-nova": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
-    "x": 764,
+    "x": 1408,
     "y": 1152
   },
   "rodalies": {
     "height": 128,
     "pixelRatio": 2,
     "width": 128,
-    "x": 892,
+    "x": 1536,
     "y": 1152
   }
 }

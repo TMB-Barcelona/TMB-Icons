@@ -10,6 +10,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
+   viewBox="0 0 64 64"
    id="svg21844"
    sodipodi:version="0.32"
    inkscape:version="0.46"
@@ -91,11 +92,11 @@
        x="0.78733474"
        y="-136.12828" />
     <path
-       style="font-size:47.52000046px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue Bold"
+       style="font-size:47.52000046px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Helvetica Neue;"
        d="M 10.918671,-122.0771 L 10.918671,-88.14782 L 34.916271,-88.14782 L 34.916271,-94.42046 L 18.379311,-94.42046 L 18.379311,-122.0771 L 10.918671,-122.0771"
        id="text2382" />
     <path
-       style="font-size:47.52000046px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue Bold"
+       style="font-size:47.52000046px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Helvetica Neue;"
        d="M 34.331604,-108.74384 L 40.794324,-108.74384 C 40.794316,-109.63086 40.873516,-110.5179 41.031924,-111.40496 C 41.221996,-112.32365 41.522955,-113.14733 41.934804,-113.876 C 42.346635,-114.63629 42.885194,-115.23821 43.550484,-115.68176 C 44.247433,-116.15693 45.086952,-116.39453 46.069044,-116.39456 C 47.526309,-116.39453 48.714308,-115.93517 49.633044,-115.01648 C 50.583426,-114.12941 51.058626,-112.87805 51.058644,-111.2624 C 51.058626,-110.24862 50.821026,-109.34574 50.345844,-108.55376 C 49.902307,-107.76174 49.332068,-107.04894 48.635124,-106.41536 C 47.969829,-105.78174 47.22535,-105.19566 46.401684,-104.65712 C 45.577991,-104.15022 44.801832,-103.64334 44.073204,-103.13648 C 42.647594,-102.15438 41.285356,-101.18815 39.986484,-100.23776 C 38.719278,-99.287347 37.610479,-98.241908 36.660084,-97.101438 C 35.709681,-95.992631 34.949362,-94.725432 34.379124,-93.299838 C 33.840563,-91.874235 33.571283,-90.195196 33.571284,-88.262718 L 57.996565,-88.262718 L 57.996565,-94.060158 L 42.267444,-94.060158 C 43.091114,-95.200631 44.041513,-96.19855 45.118644,-97.053918 C 46.195751,-97.909269 47.30455,-98.701268 48.445044,-99.429918 C 49.585507,-100.19023 50.710146,-100.95055 51.818964,-101.71088 C 52.959424,-102.47118 53.973183,-103.3107 54.860244,-104.22944 C 55.747261,-105.17982 56.460061,-106.25694 56.998644,-107.4608 C 57.53718,-108.66462 57.806459,-110.10606 57.806485,-111.78512 C 57.806459,-113.40077 57.48966,-114.85805 56.856084,-116.15696 C 56.254141,-117.45581 55.430462,-118.54877 54.385044,-119.43584 C 53.339584,-120.32285 52.119905,-121.00397 50.726004,-121.4792 C 49.363748,-121.95436 47.922309,-122.19196 46.401684,-122.192 C 44.405833,-122.19196 42.631754,-121.84348 41.079444,-121.14656 C 39.558797,-120.48125 38.291599,-119.53085 37.277844,-118.29536 C 36.264081,-117.09149 35.503761,-115.66589 34.996884,-114.01856 C 34.490002,-112.40285 34.268243,-110.64462 34.331604,-108.74384"
        id="text22626" />
   </g>

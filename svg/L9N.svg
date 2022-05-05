@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
-   viewBox="0 0 64.000002 64.000001"
+   viewBox="0 0 64 64"
    id="svg3363"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -83,7 +83,7 @@
       </g>
     </g>
     <g
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.78818321px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:-0.24253449px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.78818321px;line-height:125%;font-family:Arial;;letter-spacing:-0.24253449px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        id="text3036">
       <path
          d="m -653.73055,206.84155 -3.99922,-7.06701 q 0.0326,0.28659 0.0586,0.57318 0.0261,0.2475 0.0391,0.53409 0.0195,0.28659 0.0195,0.54713 l 0,5.41261 -1.7065,0 0,-9.17735 2.19501,0 4.05783,7.12564 q -0.0326,-0.27356 -0.0586,-0.57318 -0.026,-0.25402 -0.0456,-0.57318 -0.013,-0.31915 -0.013,-0.64482 l 0,-5.33446 1.7065,0 0,9.17735 -2.25362,0 z"

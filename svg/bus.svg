@@ -12,6 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
+   viewBox="0 0 64 64"
    id="svg21844"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
@@ -187,7 +188,7 @@
        r="32" />
     <g
        transform="matrix(0.95590414,0,0,0.77495829,7.5103578,-20.625371)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.82912445px;line-height:125%;font-family:'Helvetica CY';-inkscape-font-specification:'Helvetica CY Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.82912445px;line-height:125%;font-family:'Helvetica CY';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
        id="text9435">
       <path
          d="m 45.805322,-107.14321 c -3.2e-5,4.59603 -1.292663,8.263275 -3.877897,11.001734 -1.857586,1.953312 -4.701374,2.929966 -8.531372,2.929966 l -15.885012,0 0,-42.88666 15.712661,0 c 3.293796,4e-5 6.032258,1.0533 8.215396,3.15977 2.202232,2.0874 3.303362,4.77798 3.303393,8.07177 -3.1e-5,3.65769 -1.110736,6.59723 -3.332118,8.81862 1.129827,0.67028 2.116056,1.76183 2.958691,3.27467 0.957473,1.74267 1.436226,3.61938 1.436258,5.63013 m -9.837701,-16.13558 c -2.4e-5,-3.63849 -3.08862,-4.65421 -3.08862,-4.65421 l -7.165904,0 0,9.24227 6.792476,0 c 0.774859,0 3.462024,-1.14102 3.462048,-4.58806 m 1.66934,16.43827 c 0.07399,-3.28531 -2.637968,-5.07107 -4.64306,-5.07107 l -7.280804,0 0,10.41847 7.108453,0 c 2.342024,0 4.889396,-1.97618 4.815411,-5.3474"

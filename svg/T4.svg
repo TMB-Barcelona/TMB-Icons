@@ -10,6 +10,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
+   viewBox="0 0 64 64"
    id="svg21844"
    sodipodi:version="0.32"
    inkscape:version="0.46"
@@ -71,11 +72,11 @@
        y="-136.12828" />
     <path
        transform="scale(0.9181195,1.0891829)"
-       style="font-size:43.62902451px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue Bold"
+       style="font-size:43.62902451px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Helvetica Neue;"
        d="M 17.47151,-106.32231 L 17.47151,-80.930214 L 24.321267,-80.930214 L 24.321267,-106.32231 L 33.657878,-106.32231 L 33.657878,-112.08134 L 8.1348987,-112.08134 L 8.1348987,-106.32231 L 17.47151,-106.32231"
        id="text2382" />
     <path
-       style="font-size:47.52000046px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue Bold"
+       style="font-size:47.52000046px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Helvetica Neue;"
        d="M 47.744308,-113.06816 L 47.744308,-101.5208 L 39.000628,-101.5208 L 47.601748,-113.06816 L 47.744308,-113.06816 M 47.744308,-95.960958 L 47.744308,-88.262718 L 54.159508,-88.262718 L 54.159508,-95.960958 L 58.578868,-95.960958 L 58.578868,-101.5208 L 54.159508,-101.5208 L 54.159508,-121.52672 L 48.124468,-121.52672 L 33.678388,-102.13856 L 33.678388,-95.960958 L 47.744308,-95.960958"
        id="text22626" />
   </g>
