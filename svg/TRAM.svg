@@ -1,80 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="64"
-   height="64"
-   viewBox="0 0 64 64"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="TRAM.svg">
-  <metadata
-     id="metadata11">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1007"
-     id="namedview9"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="12.84375"
-     inkscape:cx="32"
-     inkscape:cy="32"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4" />
-  <g
-     transform="matrix(0.28924224,0,0,0.29398326,-144.48597,-45.483176)"
-     style="display:inline"
-     id="layer1">
-    <g
-       id="g10058">
-      <path
-         d="M 499.79124,154.9048 499.53276,320.0214 602.4776,217.35604 540.75089,154.72739 499.79124,154.9048 Z"
-         style="fill:#009185;fill-opacity:1;fill-rule:evenodd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="path2221"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 654.00212,268.2944 -104.3997,104.11856 171.13406,-0.0728 0,-38.30188 -66.73436,-65.74384 z"
-         style="fill:#009185;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="path3196"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 624.91992,154.71349 c 92.78392,91.69876 95.81247,96.09563 95.81247,96.09563 l 0.0682,-96.07598 -95.88066,-0.0196 z"
-         style="fill:#009185;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="path4167"
-         inkscape:connector-curvature="0" />
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 95 95" style="enable-background:new 0 0 95 95;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#008471;}
+</style>
+<rect class="st0" width="95" height="95"/>
+<polygon class="st1" points="23.6,95 95,95 95,72.8 70.4,48.3 "/>
+<polygon class="st1" points="22.3,0 0,0 0,70.2 46.3,24 "/>
+<polygon class="st1" points="95,0 60.8,0 95,34.2 "/>
 </svg>
