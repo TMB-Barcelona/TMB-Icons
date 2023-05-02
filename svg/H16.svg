@@ -6,7 +6,7 @@
 	.st0{fill:none;}
 	.st1{fill:#003888;}
 	.st2{fill:#FFFFFF;}
-	.st3{font-family:'HelveticaNeueLTStd-Bd';}
+	.st3{font-family:'Helvetica Neue LT Std'; font-weight: 1000}
 	.st4{font-size:80px;}
 	.st5{letter-spacing:-5.8;}
 	.st6{letter-spacing:-1;}

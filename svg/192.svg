@@ -7,7 +7,7 @@
 	.st1{fill:#E30613;}
 	.st2{enable-background:new    ;}
 	.st3{fill:#FFFFFF;}
-	.st4{font-family:'HelveticaNeueLTStd-Bd';}
+	.st4{font-family:'Helvetica Neue LT Std'; font-weight: 1000}
 	.st5{font-size:80px;}
 	.st6{letter-spacing:-5;}
 	.st7{letter-spacing:-2;}
