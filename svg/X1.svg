@@ -3,16 +3,18 @@
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 140 140" style="enable-background:new 0 0 140 140;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{font-family:'Helvetica'; font-weight: 800; font-style: italic}
-	.st2{font-size:80px;}
-	.st3{letter-spacing:-5.1;}
+	.st0{fill:#000000;}
+	.st1{enable-background:new    ;fill: #FFFFFF}
 </style>
 <g>
-	<path d="M140,70c0-38.7-31.3-70-70-70S0,31.3,0,70s31.3,70,70,70S140,108.7,140,70"/>
+	<path class="st0" d="M140,70c0-38.7-31.3-70-70-70S0,31.3,0,70s31.3,70,70,70S140,108.7,140,70"/>
 </g>
 <g>
-	<text transform="matrix(0.98 0 0 1 24.352 97.9976)" class="st0 st1 st2 st3">X</text>
-	<text transform="matrix(0.98 0 0 1 74.0222 97.9976)" class="st0 st1 st2">1</text>
+	<g class="st1">
+		<path d="M44.3,67.9l-13.1-27h13.4l7.9,18.9l14.3-18.9h14.6L58.2,68.5L72.1,98H58.5l-8.8-20.4L33.8,98H18.9L44.3,67.9z"/>
+	</g>
+	<g class="st1">
+		<path d="M99.3,98H87.5L95,61.7H81.6l1.8-8.6c8.2-0.4,14.4-2.4,18.4-11.1h9.1L99.3,98z"/>
+	</g>
 </g>
 </svg>
