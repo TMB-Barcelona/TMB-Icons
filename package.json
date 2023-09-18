@@ -10,7 +10,8 @@
   "scripts": {
     "clean": "rm -rf src static",
     "svg2png": "cd scripts && ./svg2png.js",
-    "mapbox": "mkdir -p static/mapboxgl && spritezero static/mapboxgl/sprites svg/ && spritezero --retina static/mapboxgl/sprites@2x svg/",
+    "svgo": "svgo -f ./svg -o ./svgo",
+    "mapbox": "npm run svgo && mkdir -p static/mapboxgl && spritezero static/mapboxgl/sprites svgo/ && spritezero --retina static/mapboxgl/sprites@2x svgo/ && rm -rf svgo/",
     "index": "cp -r svg static/ && cd scripts && ./generate-index.js",
     "react": "svgr --typescript --svg-props width='100%',height='100%' -d src/react/ svg/",
     "build-static": "npm run svg2png && npm run mapbox && npm run index",
@@ -39,7 +40,7 @@
   "devDependencies": {
     "@babel/preset-env": "7.12.1",
     "@babel/preset-react": "7.12.5",
-    "@geomatico/spritezero-cli": "2.2.0",
+    "@geomatico/spritezero-cli": "2.3.0",
     "@svgr/cli": "5.5.0",
     "@types/react": "17.0.43",
     "auto-changelog": "2.2.1",
