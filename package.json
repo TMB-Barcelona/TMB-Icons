@@ -1,6 +1,6 @@
 {
   "name": "tmb-icons",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Icons for TMB-Barcelona",
   "main": "dist/index.js",
   "files": [
