@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="100px" height="100px" viewBox="-5.554 -0.92 100 100" enable-background="new -5.554 -0.92 100 100"
+	 xml:space="preserve">
+<defs>
+</defs>
+<radialGradient id="SVGID_1_" cx="15.729" cy="18.9707" r="27.9379" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#F2F2F2"/>
+	<stop  offset="1" style="stop-color:#666666"/>
+</radialGradient>
+<path fill="url(#SVGID_1_)" stroke="#FFFFFF" stroke-width="4" d="M30.399,21.291c-0.67-6.211,1.244-12.102,4.877-16.609
+	C31.403,2.603,26.89,1.626,22.188,2.13C9.774,3.466,0.796,14.615,2.132,27.029c1.336,12.412,12.48,21.393,24.895,20.057
+	c6.205-0.668,11.551-3.785,15.18-8.285C35.851,35.386,31.229,29.001,30.399,21.291z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="46.5635" y1="18.4233" x2="46.5635" y2="58.0115">
+	<stop  offset="0" style="stop-color:#CCCCCC"/>
+	<stop  offset="0.1845" style="stop-color:#C7C7C7"/>
+	<stop  offset="0.3881" style="stop-color:#BABABA"/>
+	<stop  offset="0.6009" style="stop-color:#A4A4A4"/>
+	<stop  offset="0.8186" style="stop-color:#858585"/>
+	<stop  offset="1" style="stop-color:#666666"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" stroke="#3B3B3B" stroke-width="4" stroke-linejoin="round" d="M18.208,59.476h59.445
+	c0,0,7.711,0.498,7.215-7.963c-0.5-8.459-9.703-8.459-9.703-8.459s2.984-7.463-1.742-11.445c-4.73-3.98-10.203-1.74-10.203-1.74
+	s-2.738-11.445-16.918-11.445c-21.172,0-21.148,19.406-21.148,19.406S8.235,32.597,8.235,48.527
+	C8.235,59.769,18.208,59.476,18.208,59.476z"/>
+<path fill="#EC7C3D" stroke="#FFFFFF" stroke-width="1.5" d="M6.899,91.751c-1.027-1.025-1.027-2.691,0-3.719l0,0l25.832-25.83
+	H20.813c-1.059,0-2.02-0.643-2.426-1.623l0,0c-0.41-0.984-0.188-2.115,0.566-2.867l0,0L37.587,39.08
+	c1.027-1.025,2.691-1.025,3.723,0l0,0c1.023,1.029,1.023,2.691,0,3.721l0,0L27.161,56.943h11.918c1.066,0,2.023,0.641,2.43,1.623
+	l0,0c0.406,0.982,0.184,2.111-0.57,2.867l0,0l-30.32,30.318c-0.512,0.516-1.184,0.773-1.859,0.773l0,0
+	C8.087,92.525,7.411,92.267,6.899,91.751L6.899,91.751z"/>
+<polygon fill="#FFFFFF" stroke="#37A8DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="
+	42.591,69.759 48.599,59.349 54.61,69.759 "/>
+<polygon fill="#FFFFFF" stroke="#37A8DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="56.231,83.4 
+	62.239,72.99 68.251,83.4 "/>
+<polygon fill="#FFFFFF" stroke="#37A8DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="
+	65.216,65.759 71.224,55.349 77.235,65.759 "/>
+</svg>

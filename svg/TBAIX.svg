@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
-  <g id="surface1">
-    <rect x="0" y="0" width="64" height="64" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
-    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,51.764709%,44.313726%);fill-opacity:1;" d="M 15.898438 64 L 64 64 L 64 49.042969 L 47.425781 32.539062 Z M 15.023438 0 L 0 0 L 0 47.292969 L 31.191406 16.167969 Z M 64 0 L 40.960938 0 L 64 23.039062 Z M 64 0 "/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 95 95" viewBox="0 0 95 95">
+    <path d="M0 0h95v95H0z" style="fill:#fff"/>
+    <path d="M23.6 95H95V72.8L70.4 48.3zM22.3 0H0v70.2L46.3 24zM95 0H60.8L95 34.2z" style="fill:#008471"/>
 </svg>

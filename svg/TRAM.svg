@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
-  <g id="surface1">
-    <rect x="0" y="0" width="64" height="64" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
-    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,51.764709%,44.313726%);fill-opacity:1;" d="M 15.898438 64 L 64 64 L 64 49.042969 L 47.425781 32.539062 Z M 15.898438 64 "/>
-    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,51.764709%,44.313726%);fill-opacity:1;" d="M 15.023438 0 L 0 0 L 0 47.292969 L 31.191406 16.167969 Z M 15.023438 0 "/>
-    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,51.764709%,44.313726%);fill-opacity:1;" d="M 64 0 L 40.960938 0 L 64 23.039062 Z M 64 0 "/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 95 95" style="enable-background:new 0 0 95 95;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#008471;}
+</style>
+<rect class="st0" width="95" height="95"/>
+<polygon class="st1" points="23.6,95 95,95 95,72.8 70.4,48.3 "/>
+<polygon class="st1" points="22.3,0 0,0 0,70.2 46.3,24 "/>
+<polygon class="st1" points="95,0 60.8,0 95,34.2 "/>
 </svg>

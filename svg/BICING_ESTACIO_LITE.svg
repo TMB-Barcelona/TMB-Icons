@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
-  <g id="surface1">
-    <path style="fill-rule:nonzero;fill:rgb(83.529413%,10.588235%,14.117648%);fill-opacity:1;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(83.529413%,10.588235%,14.117648%);stroke-opacity:1;stroke-miterlimit:4;" d="M 21 18 L 27 18 L 27 30 L 21 30 Z M 21 18 " transform="matrix(1.333333,0,0,1.333333,0,0)"/>
-  </g>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="32" cy="32" r="8" fill="white"/>
+<circle cx="32" cy="32" r="6" fill="#D51B24"/>
 </svg>

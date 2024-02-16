@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
-  <g id="surface1">
-    <path style="fill-rule:nonzero;fill:rgb(92.941177%,19.215687%,13.725491%);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 32.000977 24 C 32.000977 28.417969 28.417969 32.000977 24 32.000977 C 19.582031 32.000977 15.999023 28.417969 15.999023 24 C 15.999023 19.582031 19.582031 15.999023 24 15.999023 C 28.417969 15.999023 32.000977 19.582031 32.000977 24 Z M 32.000977 24 " transform="matrix(1.333333,0,0,1.333333,0,0)"/>
-  </g>
+<svg width="64" height="64" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="24" cy="24" r="8" fill="#ed3123" stroke="white"/>
 </svg>

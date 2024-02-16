@@ -61,7 +61,7 @@
        width="64"
        y="-136.13"
        x="0.78732997"
-       style="fill:#e1393e" />
+       style="fill:#CE1126" />
     <path
        id="text2382"
        d="m 10.919,-122.08 v 33.929 h 23.998 v -6.2726 H 18.38 v -27.657 h -7.4606"
@@ -82,7 +82,7 @@
        width="64"
        y="0"
        x="0"
-       style="fill:#f1832d" />
+       style="fill:#FB712B" />
     <g
        id="g5"
        transform="matrix(0.022049,0,0,0.022049,0,-3.1641e-5)">
@@ -123,7 +123,7 @@
      transform="translate(-0.78732997,200.13)"
      id="g842">
     <rect
-       style="fill:#00adef"
+       style="fill:#00A6D6"
        x="0.78732997"
        y="-136.13"
        width="64"

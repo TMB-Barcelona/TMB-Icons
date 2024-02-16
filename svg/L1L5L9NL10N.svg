@@ -30,7 +30,7 @@
        id="layer1-6"
        transform="translate(-0.78733,136.13)">
       <rect
-         style="fill:#e1393e"
+         style="fill:#CE1126"
          x="0.78732997"
          y="-136.13"
          width="64"
@@ -49,7 +49,7 @@
        transform="translate(63.21267,136.13)"
        id="layer1-64">
       <rect
-         style="fill:#317bc8"
+         style="fill:#005A97"
          x="0.78732997"
          y="-136.13"
          width="64"
@@ -68,7 +68,7 @@
        transform="translate(669.14267,-87.79)"
        id="layer1-4">
       <rect
-         style="fill:#f1832d"
+         style="fill:#FB712B"
          x="-669.14001"
          y="151.78999"
          width="64"
@@ -109,7 +109,7 @@
        id="layer1"
        transform="translate(63.21267,200.13)">
       <rect
-         style="fill:#00adef"
+         style="fill:#00A6D6"
          id="rect21854-3"
          height="64"
          width="64"

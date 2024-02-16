@@ -1,7 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
-  <g id="surface1">
-    <rect x="0" y="0" width="64" height="64" style="fill:rgb(93.725491%,49.803922%,13.725491%);fill-opacity:1;stroke:none;"/>
-    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 38.398438 19.535156 L 43.789062 19.535156 C 48.167969 19.535156 49.515625 20.882812 49.515625 23.242188 C 49.515625 26.609375 46.617188 26.949219 44.464844 26.949219 L 38.398438 26.949219 Z M 26.609375 47.964844 L 38.128906 47.964844 L 38.128906 34.964844 L 44.261719 34.964844 C 48.773438 34.964844 49.113281 38.667969 49.449219 42.238281 C 49.582031 44.195312 49.785156 46.078125 50.390625 47.964844 L 61.910156 47.964844 C 60.832031 46.214844 60.832031 41.769531 60.632812 39.949219 C 60.226562 35.300781 58.273438 31.867188 55.175781 30.652344 C 59.015625 29.238281 60.765625 25.195312 60.765625 21.289062 C 60.765625 14.214844 55.105469 10.644531 48.574219 10.644531 L 26.609375 10.644531 Z M 26.609375 47.964844 "/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 95 95" style="enable-background:new 0 0 95 95;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EF7F23;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<rect class="st0" width="95" height="95"/>
+	<path class="st1" d="M57,29h8c6.5,0,8.5,2,8.5,5.5c0,5-4.3,5.5-7.5,5.5H57V29z M39.5,71.2h17.1V51.9h9.1c6.7,0,7.2,5.5,7.7,10.8
+		c0.2,2.9,0.5,5.7,1.4,8.5h17.1c-1.6-2.6-1.6-9.2-1.9-11.9c-0.6-6.9-3.5-12-8.1-13.8c5.7-2.1,8.3-8.1,8.3-13.9
+		c0-10.5-8.4-15.8-18.1-15.8H39.5V71.2z"/>
+</g>
 </svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="100px" height="100px" viewBox="-21 -10.672 100 100" enable-background="new -21 -10.672 100 100"
+	 xml:space="preserve">
+<defs>
+</defs>
+<radialGradient id="SVGID_1_" cx="21.9688" cy="21.7437" r="30.8185" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#F2F2F2"/>
+	<stop  offset="1" style="stop-color:#666666"/>
+</radialGradient>
+<path fill="url(#SVGID_1_)" stroke="#FFFFFF" stroke-width="4" d="M38.152,24.3c-0.738-6.849,1.372-13.349,5.378-18.319
+	c-4.271-2.292-9.251-3.371-14.436-2.813C15.4,4.642,5.495,16.937,6.969,30.63c1.475,13.694,13.768,23.6,27.462,22.126
+	c6.845-0.737,12.741-4.178,16.746-9.143C44.165,39.852,39.067,32.81,38.152,24.3z"/>
+<rect x="-6.876" y="20.016" transform="matrix(0.6705 -0.7419 0.7419 0.6705 -9.7388 22.4372)" fill="#FFFFFF" stroke="#B3B3B3" stroke-linejoin="round" width="54.538" height="4.335"/>
+<rect x="-1.151" y="25.19" transform="matrix(0.6705 -0.7419 0.7419 0.6705 -11.6911 28.3894)" fill="#FFFFFF" stroke="#B3B3B3" stroke-linejoin="round" width="54.538" height="4.336"/>
+<rect x="4.572" y="30.364" transform="matrix(0.6705 -0.7419 0.7419 0.6705 -13.644 34.3408)" fill="#FFFFFF" stroke="#B3B3B3" stroke-linejoin="round" width="54.538" height="4.336"/>
+<rect x="10.338" y="35.575" transform="matrix(0.6705 -0.7419 0.7419 0.6705 -15.6099 40.3344)" fill="#FFFFFF" stroke="#B3B3B3" stroke-linejoin="round" width="54.539" height="4.334"/>
+</svg>
