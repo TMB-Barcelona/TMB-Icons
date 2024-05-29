@@ -2101,6 +2101,18 @@
             "url": "https://cdn.tmb.cat/icons/raw/svg/AMB_L16.svg"
         },
         {
+            "name": "AMB_L20",
+            "format": "svg",
+            "category": "linies_amb",
+            "url": "https://cdn.tmb.cat/icons/raw/svg/AMB_L20.svg"
+        },
+        {
+            "name": "AMB_L21",
+            "format": "svg",
+            "category": "linies_amb",
+            "url": "https://cdn.tmb.cat/icons/raw/svg/AMB_L21.svg"
+        },
+        {
             "name": "AMB_L22",
             "format": "svg",
             "category": "linies_amb",
@@ -2437,6 +2449,18 @@
             "url": "https://cdn.tmb.cat/icons/raw/svg/AMB_PA1.svg"
         },
         {
+            "name": "AMB_PF1",
+            "format": "svg",
+            "category": "linies_amb",
+            "url": "https://cdn.tmb.cat/icons/raw/svg/AMB_PF1.svg"
+        },
+        {
+            "name": "AMB_PF2",
+            "format": "svg",
+            "category": "linies_amb",
+            "url": "https://cdn.tmb.cat/icons/raw/svg/AMB_PF2.svg"
+        },
+        {
             "name": "AMB_PR1",
             "format": "svg",
             "category": "linies_amb",
@@ -2459,6 +2483,12 @@
             "format": "svg",
             "category": "linies_amb",
             "url": "https://cdn.tmb.cat/icons/raw/svg/AMB_PR4.svg"
+        },
+        {
+            "name": "AMB_PR5",
+            "format": "svg",
+            "category": "linies_amb",
+            "url": "https://cdn.tmb.cat/icons/raw/svg/AMB_PR5.svg"
         },
         {
             "name": "AMB_SB1",
@@ -3013,6 +3043,12 @@
             "url": "https://cdn.tmb.cat/icons/raw/svg/BUS_133.svg"
         },
         {
+            "name": "BUS_134",
+            "format": "svg",
+            "category": "linies_bus",
+            "url": "https://cdn.tmb.cat/icons/raw/svg/BUS_134.svg"
+        },
+        {
             "name": "BUS_136",
             "format": "svg",
             "category": "linies_bus",
@@ -3445,6 +3481,12 @@
             "url": "https://cdn.tmb.cat/icons/raw/svg/FGC_R50.svg"
         },
         {
+            "name": "FGC_R53",
+            "format": "svg",
+            "category": "linies_fgc",
+            "url": "https://cdn.tmb.cat/icons/raw/svg/FGC_R53.svg"
+        },
+        {
             "name": "FGC_R6",
             "format": "svg",
             "category": "linies_fgc",
@@ -3455,6 +3497,12 @@
             "format": "svg",
             "category": "linies_fgc",
             "url": "https://cdn.tmb.cat/icons/raw/svg/FGC_R60.svg"
+        },
+        {
+            "name": "FGC_R63",
+            "format": "svg",
+            "category": "linies_fgc",
+            "url": "https://cdn.tmb.cat/icons/raw/svg/FGC_R63.svg"
         },
         {
             "name": "FGC_S1",
