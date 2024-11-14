@@ -115,6 +115,24 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/BBT_PARADA_LITE.svg"
 		},
 		{
+			"name": "BBT_POI_TURISTIC",
+			"format": "svg",
+			"category": "elements",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BBT_POI_TURISTIC.svg"
+		},
+		{
+			"name": "BBT_POI_TURISTIC_CARD",
+			"format": "svg",
+			"category": "elements",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BBT_POI_TURISTIC_CARD.svg"
+		},
+		{
+			"name": "BBT_POI_TURISTIC_LITE",
+			"format": "svg",
+			"category": "elements",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BBT_POI_TURISTIC_LITE.svg"
+		},
+		{
 			"name": "BICING_ESTACIO",
 			"format": "svg",
 			"category": "elements",
@@ -461,6 +479,24 @@
 			"format": "svg",
 			"category": "elements_generics",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/PARADA_LITE.svg"
+		},
+		{
+			"name": "POI_TURISTIC",
+			"format": "svg",
+			"category": "elements_generics",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/POI_TURISTIC.svg"
+		},
+		{
+			"name": "POI_TURISTIC_CARD",
+			"format": "svg",
+			"category": "elements_generics",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/POI_TURISTIC_CARD.svg"
+		},
+		{
+			"name": "POI_TURISTIC_LITE",
+			"format": "svg",
+			"category": "elements_generics",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/POI_TURISTIC_LITE.svg"
 		},
 		{
 			"name": "PORT",
