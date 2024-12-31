@@ -1,0 +1,15 @@
+{
+	"name": "generators",
+	"version": "1.0.0",
+	"description": "",
+	"main": "build-rounded-icons.js",
+	"scripts": {
+		"start": "node build-rounded-icons.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"opentype.js": "1.3.4"
+	}
+}
