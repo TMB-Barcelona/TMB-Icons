@@ -1453,6 +1453,18 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/X2_DARK.svg"
 		},
 		{
+			"name": "X3",
+			"format": "svg",
+			"category": "linies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/X3.svg"
+		},
+		{
+			"name": "X3_DARK",
+			"format": "svg",
+			"category": "linies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/X3_DARK.svg"
+		},
+		{
 			"name": "102",
 			"format": "svg",
 			"category": "linies",
@@ -2977,6 +2989,18 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_X2_DARK.svg"
 		},
 		{
+			"name": "BUS_X3",
+			"format": "svg",
+			"category": "linies_bus",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_X3.svg"
+		},
+		{
+			"name": "BUS_X3_DARK",
+			"format": "svg",
+			"category": "linies_bus",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_X3_DARK.svg"
+		},
+		{
 			"name": "BUS_102",
 			"format": "svg",
 			"category": "linies_bus",
@@ -3737,6 +3761,12 @@
 			"format": "svg",
 			"category": "linies_metro",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/METRO_L9S.svg"
+		},
+		{
+			"name": "RODALIES_RL4",
+			"format": "svg",
+			"category": "linies_rodalies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_RL4.svg"
 		},
 		{
 			"name": "RODALIES_R1",
