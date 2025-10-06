@@ -156,6 +156,30 @@
 		"TEXT_COLOR": "343434"
 	},
 	{
+		"ICON": "AMB_CS1",
+		"TEXT": "CS1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CS2",
+		"TEXT": "CS2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CS3",
+		"TEXT": "CS3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CS4",
+		"TEXT": "CS4",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
 		"ICON": "AMB_EP1",
 		"TEXT": "EP1",
 		"COLOR": "FFAA00",
@@ -504,6 +528,18 @@
 		"TEXT_COLOR": "FAF9F9"
 	},
 	{
+		"ICON": "AMB_N23",
+		"TEXT": "N23",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
+		"ICON": "AMB_N24",
+		"TEXT": "N24",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
 		"ICON": "AMB_N28",
 		"TEXT": "N28",
 		"COLOR": "0062A1",
@@ -554,6 +590,12 @@
 	{
 		"ICON": "AMB_PA1",
 		"TEXT": "PA1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_PA2",
+		"TEXT": "PA2",
 		"COLOR": "FFAA00",
 		"TEXT_COLOR": "343434"
 	},
