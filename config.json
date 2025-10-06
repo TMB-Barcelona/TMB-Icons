@@ -841,6 +841,18 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/AVIS_TANCAMENT_PORTES.svg"
 		},
 		{
+			"name": "BICI",
+			"format": "svg",
+			"category": "info_metro",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BICI.svg"
+		},
+		{
+			"name": "COTXET",
+			"format": "svg",
+			"category": "info_metro",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/COTXET.svg"
+		},
+		{
 			"name": "DESFIBRILADOR",
 			"format": "svg",
 			"category": "info_metro",
@@ -881,6 +893,36 @@
 			"format": "svg",
 			"category": "info_metro",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/INSPECCIO_TITOLS.svg"
+		},
+		{
+			"name": "PERSONA_BEBE",
+			"format": "svg",
+			"category": "info_metro",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/PERSONA_BEBE.svg"
+		},
+		{
+			"name": "PERSONA_CROSSES",
+			"format": "svg",
+			"category": "info_metro",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/PERSONA_CROSSES.svg"
+		},
+		{
+			"name": "PERSONA_EMBARASSADA",
+			"format": "svg",
+			"category": "info_metro",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/PERSONA_EMBARASSADA.svg"
+		},
+		{
+			"name": "PERSONA_GRAN",
+			"format": "svg",
+			"category": "info_metro",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/PERSONA_GRAN.svg"
+		},
+		{
+			"name": "PMR",
+			"format": "svg",
+			"category": "info_metro",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/PMR.svg"
 		},
 		{
 			"name": "PROHIBIT_BAIXAR_VIA",
@@ -1291,6 +1333,12 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/S9.svg"
 		},
 		{
+			"name": "TM",
+			"format": "svg",
+			"category": "linies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/TM.svg"
+		},
+		{
 			"name": "T1",
 			"format": "svg",
 			"category": "linies",
@@ -1667,6 +1715,18 @@
 			"format": "svg",
 			"category": "linies",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/136.svg"
+		},
+		{
+			"name": "137",
+			"format": "svg",
+			"category": "linies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/137.svg"
+		},
+		{
+			"name": "138",
+			"format": "svg",
+			"category": "linies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/138.svg"
 		},
 		{
 			"name": "141",
@@ -3199,6 +3259,18 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_136.svg"
 		},
 		{
+			"name": "BUS_137",
+			"format": "svg",
+			"category": "linies_bus",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_137.svg"
+		},
+		{
+			"name": "BUS_138",
+			"format": "svg",
+			"category": "linies_bus",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_138.svg"
+		},
+		{
 			"name": "BUS_141",
 			"format": "svg",
 			"category": "linies_bus",
@@ -3233,6 +3305,12 @@
 			"format": "svg",
 			"category": "linies_bus",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_175.svg"
+		},
+		{
+			"name": "BUS_180",
+			"format": "svg",
+			"category": "linies_bus",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_180.svg"
 		},
 		{
 			"name": "BUS_182",
@@ -3461,6 +3539,12 @@
 			"format": "svg",
 			"category": "linies_bus",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_97.svg"
+		},
+		{
+			"name": "FMTM",
+			"format": "svg",
+			"category": "linies_composades",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/FMTM.svg"
 		},
 		{
 			"name": "L1L2",
@@ -3763,6 +3847,12 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/METRO_L9S.svg"
 		},
 		{
+			"name": "RODALIES_RG1",
+			"format": "svg",
+			"category": "linies_rodalies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_RG1.svg"
+		},
+		{
 			"name": "RODALIES_RL4",
 			"format": "svg",
 			"category": "linies_rodalies",
@@ -3773,6 +3863,36 @@
 			"format": "svg",
 			"category": "linies_rodalies",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_R1.svg"
+		},
+		{
+			"name": "RODALIES_R11",
+			"format": "svg",
+			"category": "linies_rodalies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_R11.svg"
+		},
+		{
+			"name": "RODALIES_R14",
+			"format": "svg",
+			"category": "linies_rodalies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_R14.svg"
+		},
+		{
+			"name": "RODALIES_R15",
+			"format": "svg",
+			"category": "linies_rodalies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_R15.svg"
+		},
+		{
+			"name": "RODALIES_R16",
+			"format": "svg",
+			"category": "linies_rodalies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_R16.svg"
+		},
+		{
+			"name": "RODALIES_R17",
+			"format": "svg",
+			"category": "linies_rodalies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_R17.svg"
 		},
 		{
 			"name": "RODALIES_R2",
@@ -4165,6 +4285,36 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/meteo_9n.svg"
 		},
 		{
+			"name": "NIVELL_OCUPACIO_COTXE_0",
+			"format": "svg",
+			"category": "ocupacio",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/NIVELL_OCUPACIO_COTXE_0.svg"
+		},
+		{
+			"name": "NIVELL_OCUPACIO_COTXE_1",
+			"format": "svg",
+			"category": "ocupacio",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/NIVELL_OCUPACIO_COTXE_1.svg"
+		},
+		{
+			"name": "NIVELL_OCUPACIO_COTXE_2",
+			"format": "svg",
+			"category": "ocupacio",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/NIVELL_OCUPACIO_COTXE_2.svg"
+		},
+		{
+			"name": "NIVELL_OCUPACIO_COTXE_3",
+			"format": "svg",
+			"category": "ocupacio",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/NIVELL_OCUPACIO_COTXE_3.svg"
+		},
+		{
+			"name": "NIVELL_OCUPACIO_COTXE_4",
+			"format": "svg",
+			"category": "ocupacio",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/NIVELL_OCUPACIO_COTXE_4.svg"
+		},
+		{
 			"name": "AMB",
 			"format": "svg",
 			"category": "operadors",
@@ -4253,6 +4403,12 @@
 			"format": "svg",
 			"category": "operadors",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/TBESOS.svg"
+		},
+		{
+			"name": "TELEFERIC_MONTJUIC",
+			"format": "svg",
+			"category": "operadors",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/TELEFERIC_MONTJUIC.svg"
 		},
 		{
 			"name": "TMB",
