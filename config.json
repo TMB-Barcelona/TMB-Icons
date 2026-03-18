@@ -1513,6 +1513,30 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/X3_DARK.svg"
 		},
 		{
+			"name": "X4",
+			"format": "svg",
+			"category": "linies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/X4.svg"
+		},
+		{
+			"name": "X4_DARK",
+			"format": "svg",
+			"category": "linies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/X4_DARK.svg"
+		},
+		{
+			"name": "X5",
+			"format": "svg",
+			"category": "linies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/X5.svg"
+		},
+		{
+			"name": "X5_DARK",
+			"format": "svg",
+			"category": "linies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/X5_DARK.svg"
+		},
+		{
 			"name": "102",
 			"format": "svg",
 			"category": "linies",
@@ -3101,6 +3125,30 @@
 			"format": "svg",
 			"category": "linies_bus",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_X3_DARK.svg"
+		},
+		{
+			"name": "BUS_X4",
+			"format": "svg",
+			"category": "linies_bus",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_X4.svg"
+		},
+		{
+			"name": "BUS_X4_DARK",
+			"format": "svg",
+			"category": "linies_bus",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_X4_DARK.svg"
+		},
+		{
+			"name": "BUS_X5",
+			"format": "svg",
+			"category": "linies_bus",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_X5.svg"
+		},
+		{
+			"name": "BUS_X5_DARK",
+			"format": "svg",
+			"category": "linies_bus",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/BUS_X5_DARK.svg"
 		},
 		{
 			"name": "BUS_102",
