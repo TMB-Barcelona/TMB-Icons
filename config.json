@@ -13,6 +13,12 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/ASC_TATXAT.svg"
 		},
 		{
+			"name": "DHUB",
+			"format": "svg",
+			"category": "direccionals",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/DHUB.svg"
+		},
+		{
 			"name": "L9N_AEROPORT_H",
 			"format": "svg",
 			"category": "direccionals",
@@ -2107,6 +2113,18 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_B3.svg"
 		},
 		{
+			"name": "AMB_B31",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_B31.svg"
+		},
+		{
+			"name": "AMB_B32",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_B32.svg"
+		},
+		{
 			"name": "AMB_B34",
 			"format": "svg",
 			"category": "linies_amb",
@@ -2207,6 +2225,36 @@
 			"format": "svg",
 			"category": "linies_amb",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_CS4.svg"
+		},
+		{
+			"name": "AMB_CV1",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_CV1.svg"
+		},
+		{
+			"name": "AMB_CV2",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_CV2.svg"
+		},
+		{
+			"name": "AMB_CV3",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_CV3.svg"
+		},
+		{
+			"name": "AMB_CV4",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_CV4.svg"
+		},
+		{
+			"name": "AMB_CV5",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_CV5.svg"
 		},
 		{
 			"name": "AMB_EP1",
@@ -2437,6 +2485,12 @@
 			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_M14.svg"
 		},
 		{
+			"name": "AMB_M15",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_M15.svg"
+		},
+		{
 			"name": "AMB_M19",
 			"format": "svg",
 			"category": "linies_amb",
@@ -2561,6 +2615,12 @@
 			"format": "svg",
 			"category": "linies_amb",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_N20.svg"
+		},
+		{
+			"name": "AMB_N21",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_N21.svg"
 		},
 		{
 			"name": "AMB_N23",
@@ -2747,6 +2807,12 @@
 			"format": "svg",
 			"category": "linies_amb",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_VB2.svg"
+		},
+		{
+			"name": "AMB_VB4",
+			"format": "svg",
+			"category": "linies_amb",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/AMB_VB4.svg"
 		},
 		{
 			"name": "AMB_X30",
@@ -3959,6 +4025,12 @@
 			"format": "svg",
 			"category": "linies_rodalies",
 			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_R11.svg"
+		},
+		{
+			"name": "RODALIES_R13",
+			"format": "svg",
+			"category": "linies_rodalies",
+			"url": "https://cdn.tmb.cat/icons/raw/svg/RODALIES_R13.svg"
 		},
 		{
 			"name": "RODALIES_R14",

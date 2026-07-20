@@ -84,6 +84,18 @@
 		"TEXT_COLOR": "343434"
 	},
 	{
+		"ICON": "AMB_B31",
+		"TEXT": "B31",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B32",
+		"TEXT": "B32",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
 		"ICON": "AMB_B34",
 		"TEXT": "B34",
 		"COLOR": "FFAA00",
@@ -176,6 +188,36 @@
 	{
 		"ICON": "AMB_CS4",
 		"TEXT": "CS4",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV1",
+		"TEXT": "CV1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV2",
+		"TEXT": "CV2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV3",
+		"TEXT": "CV3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV4",
+		"TEXT": "CV4",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV5",
+		"TEXT": "CV5",
 		"COLOR": "FFAA00",
 		"TEXT_COLOR": "343434"
 	},
@@ -402,6 +444,12 @@
 		"TEXT_COLOR": "343434"
 	},
 	{
+		"ICON": "AMB_M15",
+		"TEXT": "M15",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
 		"ICON": "AMB_M19",
 		"TEXT": "M19",
 		"COLOR": "FFAA00",
@@ -524,6 +572,12 @@
 	{
 		"ICON": "AMB_N20",
 		"TEXT": "N20",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
+		"ICON": "AMB_N21",
+		"TEXT": "N21",
 		"COLOR": "0062A1",
 		"TEXT_COLOR": "FAF9F9"
 	},
@@ -710,6 +764,12 @@
 	{
 		"ICON": "AMB_VB2",
 		"TEXT": "VB2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_VB4",
+		"TEXT": "VB4",
 		"COLOR": "FFAA00",
 		"TEXT_COLOR": "343434"
 	},

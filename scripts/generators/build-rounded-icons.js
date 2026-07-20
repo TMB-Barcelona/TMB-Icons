@@ -43,7 +43,11 @@ fs.readFile(path.join(__dirname, 'icons.json'), 'utf8', async (error, data) => {
 
 	try {
 		const jsonData = JSON.parse(data);
-		jsonData.forEach(async (item) => {
+		// Filter the icons based on the list of icons to generate
+		// const iconsFiltered = ['AMB_B31', 'AMB_B32', 'AMB_M15', 'AMB_N21', 'AMB_VB4', 'AMB_CV1', 'AMB_CV2', 'AMB_CV3', 'AMB_CV4', 'AMB_CV5']; // List of icons to generate
+		// const icons = jsonData.filter(item => iconsFiltered.includes(item.ICON));
+		const icons = jsonData; // All icons
+		icons.forEach(async (item) => {
 			const { ICON, COLOR, TEXT_COLOR } = item;
 			const TEXT = item.TEXT || ICON;
 			const iconContent = await generateRoundedIcon(TEXT, `#${COLOR}`, `#${TEXT_COLOR}`)
