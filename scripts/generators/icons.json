@@ -1,0 +1,860 @@
+[
+	{
+		"ICON": "AMB_A1",
+		"TEXT": "A1",
+		"COLOR": "9FD6F6",
+		"TEXT_COLOR": "333333"
+	},
+	{
+		"ICON": "AMB_A2",
+		"TEXT": "A2",
+		"COLOR": "9FD6F6",
+		"TEXT_COLOR": "353535"
+	},
+	{
+		"ICON": "AMB_B12",
+		"TEXT": "B12",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B14",
+		"TEXT": "B14",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B15",
+		"TEXT": "B15",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B18",
+		"TEXT": "B18",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B2",
+		"TEXT": "B2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B20",
+		"TEXT": "B20",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B21",
+		"TEXT": "B21",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B23",
+		"TEXT": "B23",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B24",
+		"TEXT": "B24",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B25",
+		"TEXT": "B25",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B29",
+		"TEXT": "B29",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B3",
+		"TEXT": "B3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B31",
+		"TEXT": "B31",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B32",
+		"TEXT": "B32",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B34",
+		"TEXT": "B34",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B35",
+		"TEXT": "B35",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B4",
+		"TEXT": "B4",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B5",
+		"TEXT": "B5",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B7",
+		"TEXT": "B7",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B8",
+		"TEXT": "B8",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B80",
+		"TEXT": "B80",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B81",
+		"TEXT": "B81",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_B82",
+		"TEXT": "B82",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CF1",
+		"TEXT": "CF1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CF2",
+		"TEXT": "CF2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CJ",
+		"TEXT": "CJ",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CS1",
+		"TEXT": "CS1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CS2",
+		"TEXT": "CS2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CS3",
+		"TEXT": "CS3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CS4",
+		"TEXT": "CS4",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV1",
+		"TEXT": "CV1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV2",
+		"TEXT": "CV2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV3",
+		"TEXT": "CV3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV4",
+		"TEXT": "CV4",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_CV5",
+		"TEXT": "CV5",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_EP1",
+		"TEXT": "EP1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_EP2",
+		"TEXT": "EP2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_ESC",
+		"TEXT": "ESC",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_GA1",
+		"TEXT": "GA1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_GA2",
+		"TEXT": "GA2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_JM",
+		"TEXT": "JM",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_JT",
+		"TEXT": "JT",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_LH1",
+		"TEXT": "LH1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_LH2",
+		"TEXT": "LH2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L16",
+		"TEXT": "L16",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L20",
+		"TEXT": "L20",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L21",
+		"TEXT": "L21",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L22",
+		"TEXT": "L22",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L46",
+		"TEXT": "L46",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L52",
+		"TEXT": "L52",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L70",
+		"TEXT": "L70",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L72",
+		"TEXT": "L72",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L74",
+		"TEXT": "L74",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L76",
+		"TEXT": "L76",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L77",
+		"TEXT": "L77",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L78",
+		"TEXT": "L78",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L80",
+		"TEXT": "L80",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L82",
+		"TEXT": "L82",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L85",
+		"TEXT": "L85",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L86",
+		"TEXT": "L86",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L88",
+		"TEXT": "L88",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L94",
+		"TEXT": "L94",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L95",
+		"TEXT": "L95",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L96",
+		"TEXT": "L96",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L97",
+		"TEXT": "L97",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_L99",
+		"TEXT": "L99",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_MB1",
+		"TEXT": "MB1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_MB2",
+		"TEXT": "MB2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_MB3",
+		"TEXT": "MB3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M1",
+		"TEXT": "M1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M12",
+		"TEXT": "M12",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M14",
+		"TEXT": "M14",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M15",
+		"TEXT": "M15",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M19",
+		"TEXT": "M19",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M26",
+		"TEXT": "M26",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M27",
+		"TEXT": "M27",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M28",
+		"TEXT": "M28",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M30",
+		"TEXT": "M30",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M5",
+		"TEXT": "M5",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M6",
+		"TEXT": "M6",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_M75",
+		"TEXT": "M75",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_N0",
+		"TEXT": "N0",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FFFFFF"
+	},
+	{
+		"ICON": "AMB_N1",
+		"TEXT": "N1",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FCFCFC"
+	},
+	{
+		"ICON": "AMB_N11",
+		"TEXT": "N11",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FFFFFF"
+	},
+	{
+		"ICON": "AMB_N12",
+		"TEXT": "N12",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FFFFFF"
+	},
+	{
+		"ICON": "AMB_N13",
+		"TEXT": "N13",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FCFCFC"
+	},
+	{
+		"ICON": "AMB_N14",
+		"TEXT": "N14",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
+		"ICON": "AMB_N15",
+		"TEXT": "N15",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FFFFFF"
+	},
+	{
+		"ICON": "AMB_N16",
+		"TEXT": "N16",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAFAFA"
+	},
+	{
+		"ICON": "AMB_N17",
+		"TEXT": "N17",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
+		"ICON": "AMB_N18",
+		"TEXT": "N18",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAFAFA"
+	},
+	{
+		"ICON": "AMB_N19",
+		"TEXT": "N19",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FCFCFC"
+	},
+	{
+		"ICON": "AMB_N2",
+		"TEXT": "N2",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FCFCFC"
+	},
+	{
+		"ICON": "AMB_N20",
+		"TEXT": "N20",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
+		"ICON": "AMB_N21",
+		"TEXT": "N21",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
+		"ICON": "AMB_N23",
+		"TEXT": "N23",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
+		"ICON": "AMB_N24",
+		"TEXT": "N24",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
+		"ICON": "AMB_N28",
+		"TEXT": "N28",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FFFFFF"
+	},
+	{
+		"ICON": "AMB_N3",
+		"TEXT": "N3",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FDFCFC"
+	},
+	{
+		"ICON": "AMB_N4",
+		"TEXT": "N4",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAF9F9"
+	},
+	{
+		"ICON": "AMB_N5",
+		"TEXT": "N5",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FFFFFF"
+	},
+	{
+		"ICON": "AMB_N6",
+		"TEXT": "N6",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FCFCFC"
+	},
+	{
+		"ICON": "AMB_N7",
+		"TEXT": "N7",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FFFFFF"
+	},
+	{
+		"ICON": "AMB_N8",
+		"TEXT": "N8",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FFFFFF"
+	},
+	{
+		"ICON": "AMB_N9",
+		"TEXT": "N9",
+		"COLOR": "0062A1",
+		"TEXT_COLOR": "FAFAFA"
+	},
+	{
+		"ICON": "AMB_PA1",
+		"TEXT": "PA1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_PA2",
+		"TEXT": "PA2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_PF1",
+		"TEXT": "PF1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_PF2",
+		"TEXT": "PF2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_PR1",
+		"TEXT": "PR1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_PR2",
+		"TEXT": "PR2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_PR3",
+		"TEXT": "PR3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_PR4",
+		"TEXT": "PR4",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_PR5",
+		"TEXT": "PR5",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SB1",
+		"TEXT": "SB1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SB2",
+		"TEXT": "SB2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SB3",
+		"TEXT": "SB3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SF1",
+		"TEXT": "SF1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SF2",
+		"TEXT": "SF2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SF3",
+		"TEXT": "SF3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SV1",
+		"TEXT": "SV1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SV2",
+		"TEXT": "SV2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SV3",
+		"TEXT": "SV3",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_SV4",
+		"TEXT": "SV4",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_VB1",
+		"TEXT": "VB1",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_VB2",
+		"TEXT": "VB2",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_VB4",
+		"TEXT": "VB4",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X30",
+		"TEXT": "X30",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X43",
+		"TEXT": "X43",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X70",
+		"TEXT": "X70",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X79",
+		"TEXT": "X79",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X80",
+		"TEXT": "X80",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X83",
+		"TEXT": "X83",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X84",
+		"TEXT": "X84",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X86",
+		"TEXT": "X86",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X95",
+		"TEXT": "X95",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_X97",
+		"TEXT": "X97",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_86",
+		"TEXT": "86",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_87",
+		"TEXT": "87",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_88",
+		"TEXT": "88",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	},
+	{
+		"ICON": "AMB_89",
+		"TEXT": "89",
+		"COLOR": "FFAA00",
+		"TEXT_COLOR": "343434"
+	}
+]

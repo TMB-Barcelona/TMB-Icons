@@ -28,7 +28,7 @@
      transform="translate(64,4.8828125e-6)"
      id="g4260">
     <rect
-       style="fill:#f1832d"
+       style="fill:#FB712B"
        x="0"
        y="0"
        width="64"
@@ -69,7 +69,7 @@
      transform="translate(-0.78732997,136.13)"
      id="layer1">
     <rect
-       style="fill:#317bc8"
+       style="fill:#005A97"
        x="0.78732997"
        y="-136.13"
        width="64"
@@ -93,7 +93,7 @@
        width="64"
        y="-136.13"
        x="0.78732997"
-       style="fill:#00adef" />
+       style="fill:#00A6D6" />
     <g
        id="g11"
        style="fill:#ffffff">

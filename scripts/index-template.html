@@ -17,8 +17,8 @@
       display: inline-block;
       vertical-align: middle;
       text-align: center;
-      width: 64px;
-      height: 64px;
+      width: 32px;
+      height: 32px;
       margin: 3px;
     }
     img {
@@ -34,67 +34,126 @@
     <div class="container">
       <div class="navbar-header">
         <a class="navbar-brand" href="#">TMB-Icons</a>
-          <p class="navbar-text navbar-right"><a class="navbar-link" href="https://github.com/TMB-Barcelona/TMB-Icons/releases/{{version}}">{{version}}</a></p>
+          <p class="navbar-text"><a class="navbar-link" href="https://github.com/TMB-Barcelona/TMB-Icons/releases/{{version}}">{{version}}</a></p>         
+          <!-- <p class="navbar-text navbar-right">
+          </p> -->
+          <form class="navbar-form navbar-right">
+            <label class="navbar-text" for="format-select">Icons format:</label>
+            <select class="navbar-text" style="color: black" id="format-select">
+                <option value="svg" selected>SVG</option>
+                <option value="png">PNG</option>
+                <option value="mapbox">Mapbox</option>
+            </select>
+            <label class="navbar-text" for="size-select">Icons size:</label>
+            <select class="navbar-text" style="color: black" id="size-select">
+                <option value="24">24</option>
+                <option value="32" selected>32</option>
+                <option value="64">64</option>
+            </select>
+          </form>
       </div>
     </div>
   </nav>
 
   <div class="container">
-    <h1>SVG Icons</h1>
-    <p>{{#svg}}
-      <div class="icon-container"><a href="svg/{{.}}"><img src="svg/{{.}}"/></a></div>
-    {{/svg}}</p>
+    <section id="svg-icons">
+      <h1>SVG Icons</h1>
+      {{#categories}}
+      <h3>{{name}}</h3>
+      <p>
+        {{#icons}}
+        <div class="icon-container"><a href="svg/{{name}}.svg"><img src="svg/{{name}}.svg" loading="lazy" /></a></div>
+        {{/icons}}
+      </p>
+      {{/categories}}
+    </section>
 
-    <h1>PNG Icons</h1>
-    <p>{{#png}}
-      <div class="icon-container"><a href="png/originalSize/{{.}}"><img src="png/originalSize/{{.}}"/></a></div>
-    {{/png}}</p>
+    <section id="png-icons">
+      <h1>PNG Icons</h1>
+      {{#categories}}
+      <h3>{{name}}</h3>
+      <p>
+        {{#icons}}
+        <div class="icon-container"><a href="png/originalSize/{{name}}.png"><img src="png/originalSize/{{name}}.png"/></a></div>
+        {{/icons}}
+      </p>
+      {{/categories}}
+    </section>
+   
+    <section id="mapbox-icons">
+      <h1>MapboxGL sprites</h1>
 
-    <h1>MapboxGL sprites</h1>
+      <p>
+        <div><a href="mapboxgl/sprites.png"><img src="mapboxgl/sprites.png" loading="lazy" /></a></div>
+      </p>
 
-    <p>Use <code>"sprite": "https://cdn.tmb.cat/icons/{{version}}/static/mapboxgl/sprites"</code> in your mapboxgl style definition.
-    Then use them as "icon-image" property in a layer:</p>
+      <p>Use <code>"sprite": "https://cdn.tmb.cat/icons/{{version}}/static/mapboxgl/sprites"</code> in your mapboxgl style definition.
+      Then use them as "icon-image" property in a layer:</p>
 
-    <pre><code>
-    {
-      "id": "estacions",
-      "type": "symbol",
-      "source": "estacions",
-      "maxzoom": 16,
-      "layout": {
-        "icon-image": "{PICTO}",
-        "icon-size": {
-          "stops": [
-            [10, 0],
-            [11, 0.2],
-            [13, 0.25],
-            [20, 0.5]
-          ]
+      <pre><code>
+      {
+        "id": "estacions",
+        "type": "symbol",
+        "source": "estacions",
+        "maxzoom": 16,
+        "layout": {
+          "icon-image": "{PICTO}",
+          "icon-size": {
+            "stops": [
+              [10, 0],
+              [11, 0.2],
+              [13, 0.25],
+              [20, 0.5]
+            ]
+          },
+          "icon-allow-overlap": true,
+          "text-field": "{NOM_ESTACIO}",
+          "text-font": [
+            "Open Sans Semibold"
+          ],
+          "text-offset": [1, 0],
+          "text-anchor": "left",
+          "text-size": {
+            "stops": [
+              [12.9, 0],
+              [13, 11],
+              [20, 24]
+            ]
+          },
+          "text-optional": true
         },
-        "icon-allow-overlap": true,
-        "text-field": "{NOM_ESTACIO}",
-        "text-font": [
-          "Open Sans Semibold"
-        ],
-        "text-offset": [1, 0],
-        "text-anchor": "left",
-        "text-size": {
-          "stops": [
-            [12.9, 0],
-            [13, 11],
-            [20, 24]
-          ]
-        },
-        "text-optional": true
-      },
-      "paint": {
-        "text-halo-width": 1,
-        "text-halo-color": "#000000",
-        "text-color": "#FFFFFF"
+        "paint": {
+          "text-halo-width": 1,
+          "text-halo-color": "#000000",
+          "text-color": "#FFFFFF"
+        }
       }
-    }
-    </code></pre>
+      </code></pre>
+    </section>
   </div>
 
+  <script>
+    // init with SVG Icons visible
+    document.getElementById('svg-icons').style.display = 'block';
+    document.getElementById('png-icons').style.display = 'none';
+    document.getElementById('mapbox-icons').style.display = 'none';
+
+    document.getElementById('format-select').addEventListener('change', function() {
+        const selectedFormat = this.value;
+        document.getElementById('svg-icons').style.display = 'none';
+        document.getElementById('png-icons').style.display = 'none';
+        document.getElementById('mapbox-icons').style.display = 'none';
+        document.getElementById(`${selectedFormat}-icons`).style.display = 'block';
+    });
+
+    document.getElementById('size-select').addEventListener('change', function() {
+        const selectedSize = this.value;
+        const iconImgs = document.getElementsByClassName('icon-container');
+        for (let i = 0; i < iconImgs.length; i++) {
+            iconImgs[i].style.width = selectedSize + 'px';
+            iconImgs[i].style.height = selectedSize + 'px';
+        }
+    });
+  </script>
 </body>
 </html>
